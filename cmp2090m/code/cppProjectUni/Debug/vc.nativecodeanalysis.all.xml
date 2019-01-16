@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tomke\desktop\cmp2090\cmp2090 code\cppprojectuni\cppprojectuni</FILEPATH>
+      <FILENAME>area.h</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'area::SSD' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>area::{ctor}</FUNCTION>
+    <DECORATED>??0area@@QAE@HH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

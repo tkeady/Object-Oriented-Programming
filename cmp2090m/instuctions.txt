@@ -1,0 +1,11 @@
+Hello, 
+In case the my program does not compile please try the following things in visual studio:
+
+-Windows SDK version 8.1
+-In VC++ directories: Include Directories, try and include the drive that has visual studio installed.
+-In Linker,System: set SubSystem to Console.
+
+Also try:
+-Debug along the top of the screen, press options, press symbols, and tick Microsoft symbol servers.
+
+Thank you and if any issues please email me urgently 16608272@students.lincoln.ac.uk

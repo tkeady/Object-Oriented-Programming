@@ -1,0 +1,10 @@
+﻿  area.cpp
+c:\users\tomke\desktop\cmp2090\cmp2090 code\cppprojectuni\cppprojectuni\area.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  largeImage.cpp
+  match.cpp
+  matrix.cpp
+  source.cpp
+c:\users\tomke\desktop\cmp2090\cmp2090 code\cppprojectuni\cppprojectuni\source.cpp(339): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tomke\desktop\cmp2090\cmp2090 code\cppprojectuni\cppprojectuni\source.cpp(351): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  cppProjectUni.vcxproj -> C:\Users\tomke\Desktop\cmp2090\cmp2090 code\cppProjectUni\Debug\cppProjectUni.exe

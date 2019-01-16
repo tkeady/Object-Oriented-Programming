@@ -1,0 +1,10 @@
+﻿  area.cpp
+c:\users\tomke\onedrive - university of lincoln\object oriented programming\assignment\upload\upload\code\cppprojectuni\area.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  largeImage.cpp
+  match.cpp
+  matrix.cpp
+  source.cpp
+c:\users\tomke\onedrive - university of lincoln\object oriented programming\assignment\upload\upload\code\cppprojectuni\source.cpp(341): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tomke\onedrive - university of lincoln\object oriented programming\assignment\upload\upload\code\cppprojectuni\source.cpp(353): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  cppProjectUni.vcxproj -> C:\Users\tomke\OneDrive - University of Lincoln\object oriented programming\assignment\upload\upload\code\x64\Debug\cppProjectUni.exe
